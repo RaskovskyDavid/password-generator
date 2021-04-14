@@ -39,3 +39,6 @@ for num_iteration in  range(options_count, 0 , -1):
       options_amount.pop(option)
       option_swich.pop(option)
 print(password)
+'''
+There is an excelent alternative using random.shuffle(password) to reorder the code
+'''
